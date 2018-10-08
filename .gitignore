@@ -106,3 +106,6 @@ venv.bak/
 
 # windows desktop
 desktop.ini
+
+# credential files
+kaggle.json
